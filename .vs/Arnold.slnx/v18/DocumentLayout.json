@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Arnold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\pages\\category_pages\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\pages\\category_pages\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\shared\\bsmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\shared\\bsmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\services\\extensions\\ijsruntimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\services\\extensions\\ijsruntimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\wwwroot\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|c:\\dev\\arnold\\arnold\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD8D88-D5A2-4E66-B2C2-E8F188480267}|Arnold\\Arnold.csproj|solutionrelative:arnold\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Program.cs",
+              "RelativeDocumentMoniker": "Arnold\\Program.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Program.cs",
+              "RelativeToolTip": "Arnold\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:16:44.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryUpsert.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "RelativeToolTip": "Arnold\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:13:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BsModal.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\Shared\\BsModal.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\Shared\\BsModal.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\Shared\\BsModal.razor",
+              "RelativeToolTip": "Arnold\\Components\\Shared\\BsModal.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:12:23.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\_Imports.razor",
+              "RelativeToolTip": "Arnold\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:11:30.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Arnold\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:10:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Arnold\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:10:23.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\App.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\App.razor",
+              "RelativeToolTip": "Arnold\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:08:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJSRuntimeExtensions.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Services\\Extensions\\IJSRuntimeExtensions.cs",
+              "RelativeDocumentMoniker": "Arnold\\Services\\Extensions\\IJSRuntimeExtensions.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Services\\Extensions\\IJSRuntimeExtensions.cs",
+              "RelativeToolTip": "Arnold\\Services\\Extensions\\IJSRuntimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:08:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeDocumentMoniker": "Arnold\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeToolTip": "Arnold\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T23:00:20.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "Arnold\\Data\\Category.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Data\\Category.cs",
+              "RelativeToolTip": "Arnold\\Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:54:55.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Arnold\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Arnold\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:55:32.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "notification.js",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\wwwroot\\js\\notification.js",
+              "RelativeDocumentMoniker": "Arnold\\wwwroot\\js\\notification.js",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\wwwroot\\js\\notification.js",
+              "RelativeToolTip": "Arnold\\wwwroot\\js\\notification.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-05T23:02:31.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "common.js",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\wwwroot\\js\\common.js",
+              "RelativeDocumentMoniker": "Arnold\\wwwroot\\js\\common.js",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\wwwroot\\js\\common.js",
+              "RelativeToolTip": "Arnold\\wwwroot\\js\\common.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-05T23:02:03.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Arnold\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Arnold\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:59:06.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Arnold\\Arnold\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Arnold\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Dev\\Arnold\\Arnold\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Arnold\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:58:39.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
