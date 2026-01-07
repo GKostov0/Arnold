@@ -218,3 +218,4 @@ C:\Dev\Arnold\Arnold\obj\Debug\net9.0\refint\Arnold.dll
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.pdb
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.genruntimeconfig.cache
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\ref\Arnold.dll
+C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.sourcelink.json
