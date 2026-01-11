@@ -157,7 +157,6 @@ C:\Dev\Arnold\Arnold\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.raz
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\scopedcss\bundle\Arnold.styles.css
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\scopedcss\projectbundle\Arnold.bundle.scp.css
-C:\Dev\Arnold\Arnold\obj\Debug\net9.0\compressed\lkgr34mact-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\compressed\7sqo48x88d-{0}-n1aq5vt92j-n1aq5vt92j.gz
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\compressed\exirwkgwt5-{0}-awre2n53k6-awre2n53k6.gz
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\compressed\cqgnu6h8lg-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -219,3 +218,4 @@ C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.pdb
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.genruntimeconfig.cache
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\ref\Arnold.dll
 C:\Dev\Arnold\Arnold\obj\Debug\net9.0\Arnold.sourcelink.json
+C:\Dev\Arnold\Arnold\obj\Debug\net9.0\compressed\lkgr34mact-{0}-2y0xh1qgmf-2y0xh1qgmf.gz
