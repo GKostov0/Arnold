@@ -1,6 +1,7 @@
 wwwroot\app.css
 wwwroot\favicon.png
 wwwroot\images\loading.gif
+wwwroot\images\product\17180cbe-07ce-418c-9839-2ebf8dd439ba..jpg
 wwwroot\js\common.js
 wwwroot\js\notification.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
